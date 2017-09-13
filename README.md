@@ -4,7 +4,7 @@ Watch changes (remove, create and changes) on a mapped directory and fire a comm
 
 ## Usage
 
-	go run gowatch config.json
+	go run gowatcher config.json
 
 
 ### Configuration
