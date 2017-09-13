@@ -1,0 +1,13 @@
+{
+  "dir":"/Users/marciog/Projects/__temp/golang_changes_file_dir/watch",
+  "log":"/Users/marciog/Projects/__temp/golang_changes_file_dir/log",
+  "create":{
+    "cmd": "touch /Users/marciog/Projects/__temp/golang_changes_file_dir/log/`date '+%Y%m%d-%H%M%S'`_create.txt"
+  },
+  "change":{
+    "cmd": "touch /Users/marciog/Projects/__temp/golang_changes_file_dir/log/`date '+%Y%m%d-%H%M%S'`_change.txt"
+  },
+  "delete":{
+    "cmd":"touch /Users/marciog/Projects/__temp/golang_changes_file_dir/log/`date '+%Y%m%d-%H%M%S'`_delete.txt"
+  }
+}

@@ -1,0 +1,7 @@
+# GoWatcher
+
+
+
+
+## TODO
+- criar makefile
